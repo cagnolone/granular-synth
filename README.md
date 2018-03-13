@@ -1,6 +1,6 @@
 # granular-synth
 
-![synth](/synth.png)
+![synth](https://github.com/cagnolone/granular-synth/blob/master/synth.PNG)
 
 
 ## I already am a supercollider user!
