@@ -2,7 +2,7 @@
 
 ## I already am a supercollider user!
 
-Ok, so quick rundown for you: put `GranularSpectrogram4channels.sc` in the `Extensions`, recompile the class library, boot the server and run `GranularSynth.scd`. You should run this on on **3.8.0** or greater otherwise you are gonna have problems with the GUI. Use **MONO** samples only!! Go at the bottom of this page if you need some.
+Ok, so quick rundown for you: put `GranularSpectrogram4channels.sc` in the `Extensions` folder, recompile the class library, boot the server and run `GranularSynth.scd`. You should run this on on **3.8.0** or greater otherwise you are gonna have problems with the GUI. Use **MONO** samples only!! Go at the bottom of this page if you need some.
 
 ## I NEVER used supercollider! How do I try this?
 
